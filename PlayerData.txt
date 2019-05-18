@@ -1,0 +1,49 @@
+*******************************************************************
+	DATOS DEL JUGADOR
+Nombre del personaje: dark knight
+Habilidad del personaje: armadura divina
+Nombre arma del personaje: espada del caos
+*******************************************************************
+ 
+*******************************************************************
+	DATOS DEL JUGADOR
+Nombre del personaje: kratos
+Habilidad del personaje: dios de la guerra
+Nombre arma del personaje: acha del leviatan
+*******************************************************************
+ 
+*******************************************************************
+	DATOS DEL JUGADOR
+Nombre del personaje: brujo david
+Habilidad del personaje: magia negra
+Nombre arma del personaje: posiones magicas
+*******************************************************************
+ 
+*******************************************************************
+	DATOS DEL JUGADOR
+Nombre del personaje: cazador paez
+Habilidad del personaje: fuerza
+Nombre arma del personaje: acha filosa
+*******************************************************************
+ 
+*******************************************************************
+	DATOS DEL JUGADOR
+Nombre del personaje: dark knigth 2
+Habilidad del personaje: ninguna
+Nombre arma del personaje: espada sagrada
+*******************************************************************
+ 
+*******************************************************************
+	DATOS DEL JUGADOR
+Nombre del personaje: ad
+Habilidad del personaje: cc
+Nombre arma del personaje: vv
+*******************************************************************
+ 
+*******************************************************************
+	DATOS DEL JUGADOR
+Nombre del personaje: aa
+Habilidad del personaje: cc
+Nombre arma del personaje: vv
+*******************************************************************
+ 
